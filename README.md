@@ -1,2 +1,5 @@
-"# My-BigData-Courseworks" 
-一些大数据和云计算相关的课程作业，涉及Hadoop,Spark,Flink,kafka,k8s等
+"# My-BigData-Courseworks"   
+
+一些在学校做的大数据和云计算相关的课程作业，涉及Hadoop,Spark,Flink,kafka,k8s等  
+
+为我建立了起对大数据框架的基本认识，后来我在项目工程实践中的具体应用了这些知识后，对这方面的知识理解更加深入了，正所谓“纸上得来终觉浅，绝知此事要躬行”呀~
